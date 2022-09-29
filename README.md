@@ -4,6 +4,13 @@
 - 🔭 Estudante Etec MCM
 - 🌱 Técnico em Informática para Internet
 
+<br>
+<div align="center">
+  <img width="70%" src="https://github.com/gabrielgarcia05/gabrielgarcia05/blob/main/R6.gif">
+</div>
+<br>
+
+
 <div align="center">
   <a href="https://github.com/gabrielgarcia05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgarcia05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
