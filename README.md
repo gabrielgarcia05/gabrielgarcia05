@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
+<h1 align="center"> MY NAME IS GABRIEL GARCIA! </h1>
 
-<!--
-**gabrielgarcia05/gabrielgarcia05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudante Etec MCM
+- 🌱 Técnico em Informática para Internet
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/gabrielgarcia05">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgarcia05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgarcia05&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+ 
+  <div style="display: inline_block"><br>
+  <h3 align="left">Languages and Tools:</h3>
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+   
+</div>
