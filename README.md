@@ -4,12 +4,6 @@
 - 🔭 Estudante Etec MCM
 - 🌱 Técnico em Informática para Internet
 
-<br>
-<div align="center">
-  <img width="70%" src="https://github.com/gabrielgarcia05/gabrielgarcia05/blob/main/darthVader.gif">
-</div>
-<br>
-
 
 <div align="center"><br>
   <a href="https://github.com/gabrielgarcia05">
@@ -17,11 +11,17 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgarcia05&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
+ 
+ 
   <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-   
-</div>
+  <img align="right" alt="Gabriel-gif" height="150" style="border-radius:50px;" 
+   src="https://github.com/gabrielgarcia05/gabrielgarcia05/blob/main/darthVader.gif">
+  
+  ##
+  
+
