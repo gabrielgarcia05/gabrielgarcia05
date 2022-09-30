@@ -17,7 +17,7 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-  <img align="right" alt="Gabriel-gif" height="180" style="border-radius:50px;" 
+  <img align="right" alt="Gabriel-gif" height="150" style="border-radius:50px;" 
    src="https://github.com/gabrielgarcia05/gabrielgarcia05/blob/main/darthVader.gif">
   
   ##
