@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-  <img width="70%" src="https://github.com/gabrielgarcia05/gabrielgarcia05/blob/main/github_gif_darthVader.gif">
+  <img width="70%" src="https://github.com/gabrielgarcia05/gabrielgarcia05/blob/main/darthVader.gif">
 </div>
 <br>
 
