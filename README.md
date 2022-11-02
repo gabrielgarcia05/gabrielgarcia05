@@ -1,7 +1,7 @@
 <h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
 <h1 align="center"> MY NAME IS GABRIEL GARCIA! </h1>
 
-- 🔭 Estudante Etec MCM
+- 🔭 Estudante ETEC MCM
 - 🌱 Técnico em Informática para Internet
 
 
